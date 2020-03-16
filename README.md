@@ -1,4 +1,4 @@
-# Netflix Web Layout using React.js and Styled Components.
+# Netflix Web Layout with Carousel using React.js and Styled Components
 
 
 ## Final Result
