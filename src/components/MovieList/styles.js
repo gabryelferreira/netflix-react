@@ -1,14 +1,4 @@
-import styled, { keyframes } from 'styled-components';
-
-const transform = keyframes`
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(100%);
-  }
-`;
+import styled from 'styled-components';
 
 export const MovieListTitle = styled.h2`
     font-family: 'Ubuntu', sans-serif;
