@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #202020;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Ubuntu', sans-serif;
+}
